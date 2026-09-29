@@ -20,7 +20,7 @@ universe answer back. I’m eager to apply my analytical thinking, technical ski
 uncover these answers with data to tackle meaningful challenges.
 
 - 🔭 I’m currently working on a python program designed to curate information on Alveus Sanctuary's Pollinator Census
-- 🌱 I’m currently learning about web development ie HTML, CSS, Flask and Javascript
+- 🌱 I’m currently learning about web development ie HTML, CSS, Flask and Javascript. Also currently doing a project using Django
 - 🤔 I’m looking for help with translating and modding DS rom files
 - 📫 How to reach me: My email [dylannnadan42@gmail.com] or message me on Instagram [@dylz42]
 - 😄 Pronouns: He/Him
